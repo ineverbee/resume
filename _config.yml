@@ -59,7 +59,7 @@ content:
       - layout: top-middle
         title: Wall
         link: github.com/ineverbee
-        link_text: Project Website
+        # link_text: Project Website
         additional_links:
           - title:  ineverbee/go-web
             icon: fab fa-github
@@ -72,7 +72,7 @@ content:
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
     content:
-      <h2>Python</h2> <h2>Golang</h2>
+      <mark><font size="5">Python</font></mark> <mark><font size="5">Golang</font></mark> 
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
