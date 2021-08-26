@@ -72,7 +72,7 @@ content:
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
     content:
-      <font size="5"><mark>Python</mark></font>&tab<font size="5"><mark>Golang</mark></font>&tab<font size="5"><mark>Gorilla Toolkit</mark></font>&tab<font size="5"><mark>Django</mark></font>&tab<font size="5"><mark>Git</mark></font>&tab<font size="5"><mark>HTML</mark></font>&tab<font size="5"><mark>CSS</mark></font>&tab<font size="5"><mark>JS</mark></font>&tab<font size="5"><mark>jQuery</mark></font>&tab<font size="5"><mark>RabbitMQ</mark></font>&tab<font size="5"><mark>Celery</mark></font>&tab<font size="5"><mark>Docker</mark></font>&tab<font size="5"><mark>Heroku</mark></font>
+      <font size="5"><mark>Python</mark></font>&#9;<font size="5"><mark>Golang</mark></font>&#9;<font size="5"><mark>Gorilla Toolkit</mark></font>&#9;<font size="5"><mark>Django</mark></font>&#9;<font size="5"><mark>Git</mark></font>&#9;<font size="5"><mark>HTML</mark></font>&#9;<font size="5"><mark>CSS</mark></font>&#9;<font size="5"><mark>JS</mark></font>&#9;<font size="5"><mark>jQuery</mark></font>&#9;<font size="5"><mark>RabbitMQ</mark></font>&#9;<font size="5"><mark>Celery</mark></font>&#9;<font size="5"><mark>Docker</mark></font>&#9;<font size="5"><mark>Heroku</mark></font>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
