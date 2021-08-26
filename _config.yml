@@ -46,11 +46,11 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/itadori.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Привет, моё имя Влад и я backend разработчик. У меня нет опыта работы в реальном производстве. Но я писал свои проекты на <mark>Golang</mark> и <mark>Python</mark>, и удачно заливал их на <mark>Heroku</mark>.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Мои наиболее прокаченные скиллы: <mark>Django</mark> и <mark>Watching anime</mark>
 
 content:
   - title: Projects # Title for the section
