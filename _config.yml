@@ -72,7 +72,9 @@ content:
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
     content:
-      <font size="5"><mark>Python</mark></font> <font size="5"><mark>Golang</mark></font> <font size="5"><mark>Gorilla Toolkit</mark></font> <font size="5"><mark>Django</mark></font> <font size="5"><mark>Git</mark></font> <font size="5"><mark>HTML</mark></font> <font size="5"><mark>CSS</mark></font> <font size="5"><mark>JS</mark></font> <font size="5"><mark>jQuery</mark></font> <font size="5"><mark>RabbitMQ</mark></font> <font size="5"><mark>Celery</mark></font> <font size="5"><mark>Docker</mark></font> <font size="5"><mark>Heroku</mark></font>
+      <font size="5"><mark>Python</mark></font>
+      <font size="5"><mark>Golang</mark></font>
+      <font size="5"><mark>Gorilla Toolkit</mark></font>   <font size="5"><mark>Django</mark></font>    <font size="5"><mark>Git</mark></font>     <font size="5"><mark>HTML</mark></font> <font size="5"><mark>CSS</mark></font> <font size="5"><mark>JS</mark></font> <font size="5"><mark>jQuery</mark></font> <font size="5"><mark>RabbitMQ</mark></font> <font size="5"><mark>Celery</mark></font> <font size="5"><mark>Docker</mark></font> <font size="5"><mark>Heroku</mark></font>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -85,6 +87,12 @@ content:
           Национальный исследовательский технологический университет «МИСиС» — российский технический университет; первый вуз в стране, получивший статус «Национального исследовательского технологического университета».
         description: | # this will include new lines to allow paragraphs
           Во время учебы в университете я усвоил большинство ключевых навыков, таких как командная работа и работа в сжатые сроки. Я получил огромное удовольствие от учебы в университете и много узнал о здоровом балансе между работой и личной жизнью.
+      - layout: left
+        title: НИТУ МИСиС
+        caption: 2020
+        sub_title: IELTS
+        description: | # this will include new lines to allow paragraphs
+          Upper intermediate - B2
 
   - title: A Little More About Me
     layout: text
