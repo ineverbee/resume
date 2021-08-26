@@ -72,7 +72,7 @@ content:
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
     content:
-      <font size="5"><mark>Python</mark></font> <mark><font size="5">Golang</font></mark> 
+      <font size="5"><mark>Python</mark></font> <font size="5"><mark>Golang</mark></font> <font size="5"><mark>Gorilla Toolkit</mark></font> <font size="5"><mark>Django</mark></font> <font size="5"><mark>Git</mark></font> <font size="5"><mark>HTML</mark></font> <font size="5"><mark>CSS</mark></font> <font size="5"><mark>JS</mark></font> <font size="5"><mark>jQuery</mark></font> <font size="5"><mark>RabbitMQ</mark></font> <font size="5"><mark>Celery</mark></font> <font size="5"><mark>Docker</mark></font> <font size="5"><mark>Heroku</mark></font>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
