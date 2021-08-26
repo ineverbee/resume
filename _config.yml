@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/itadori.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Привет, моё имя Влад и я backend разработчик. У меня нет опыта работы в реальном производстве. Но я писал свои проекты на <mark>Golang</mark> и <mark>Python</mark>, и удачно заливал их на <mark>Heroku</mark>.
+  Привет, моё имя Влад, мне 22 и я backend разработчик. У меня нет опыта работы в реальном производстве. Но я писал свои проекты на <mark>Golang</mark> и <mark>Python</mark>, и удачно заливал их на <mark>Heroku</mark>.
 
   Мои наиболее прокаченные скиллы: <mark>Django</mark> и <mark>Watching anime</mark>
 
@@ -57,23 +57,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
+        title: Wall
+        link: github.com/ineverbee
+        link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  ineverbee/go-web
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+            url: github.com/ineverbee/go-web
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Add anything you want
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Я начал этот проект для изучения языка <mark>Go</mark>, его стандартных библиотек и для практики разработки на данном языке. Во время написания этого проекта я также изучил <mark>NoSQL</mark> на примере <mark>MongoDB</mark> и <mark>OAuth v2.0</mark> при этом используя <mark>VK API</mark>.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Skills # Title for the section
+    layout: text # Type of content section (list/text)
     content:
       - layout: left
         title: The Boring Company
