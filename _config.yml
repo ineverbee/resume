@@ -102,7 +102,7 @@ content:
       - [Photography](https://instagram.com/ineverbee)
 
       Look at this cool image  
-      ![Image](images/image.png "Image")
+      <kbd>![Image](images/image.png "Image")</kbd>
 
 # Footer
 footer_show_references: false
