@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/itadori.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Привет, моё имя Влад, мне 22 и я backend разработчик. У меня нет опыта работы в реальном производстве. Но я писал свои проекты на <mark>Golang</mark> и <mark>Python</mark>, и удачно заливал их на <mark>Heroku</mark>.
+  Привет, меня зовут Влад, мне 22 и я backend разработчик. У меня нет опыта работы в реальном производстве. Но я писал свои проекты на <mark>Golang</mark> и <mark>Python</mark>, и удачно заливал их на <mark>Heroku</mark>.
 
   Мои наиболее прокаченные скиллы: <mark>Django</mark> и <mark>Watching anime</mark>
 
