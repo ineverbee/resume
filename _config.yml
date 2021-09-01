@@ -15,19 +15,10 @@ website: ineverbee.herokuapp.com
 darkmode: true
 
 # Social links
-# twitter_username: facespics
+# twitter_username: ineverbee
 github_username:  ineverbee
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
 instagram_username: ineverbee
-# telegram_username: ineverbee
-# xing_username: jekyll
-# pinterest_username: jekyll
 # youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
@@ -48,7 +39,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/itadori.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Привет, меня зовут Влад, мне 22 и я начинающий backend разработчик. У меня нет опыта работы в реальном производстве. Но я писал свои проекты на <mark>Golang</mark> и <mark>Python</mark>, и удачно заливал их на <mark>Heroku</mark>.
+  Привет, меня зовут Влад, мне 23 и я начинающий backend разработчик. У меня нет опыта работы в реальном производстве. Но я писал свои проекты на <mark>Golang</mark> и <mark>Python</mark>, и удачно заливал их на <mark>Heroku</mark>.
 
   Мои наиболее прокаченные скиллы: <mark>Django</mark> и <mark>Watching anime</mark>
 
