@@ -49,8 +49,8 @@ content:
     content:
       - layout: top-middle
         title: Wall
-        quote: >
-          Add anything you want
+        # quote: >
+        #  Add anything you want
         link: github.com/ineverbee/go-web
         # link_text: Project Website
         additional_links:
