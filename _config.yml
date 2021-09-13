@@ -49,14 +49,14 @@ content:
     content:
       - layout: top-middle
         title: Wall
-        link: github.com/ineverbee
+        quote: >
+          Add anything you want
+        link: github.com/ineverbee/go-web
         # link_text: Project Website
         additional_links:
           - title:  ineverbee/go-web
             icon: fab fa-github
             url: github.com/ineverbee/go-web
-        quote: >
-          Add anything you want
         description: | # this will include new lines to allow paragraphs
           Я начал этот проект для изучения языка <mark>Go</mark>, его стандартных библиотек и для практики разработки на данном языке. Во время написания этого проекта я также изучил <mark>NoSQL</mark> на примере <mark>MongoDB</mark> и <mark>OAuth v2.0</mark> при этом используя <mark>VK API</mark>.
 
