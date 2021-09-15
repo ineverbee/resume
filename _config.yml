@@ -59,11 +59,24 @@ content:
             url: github.com/ineverbee/go-web
         description: | # this will include new lines to allow paragraphs
           Я начал этот проект для изучения языка <mark>Go</mark>, его стандартных библиотек и для практики разработки на данном языке. Во время написания этого проекта я также изучил <mark>NoSQL</mark> на примере <mark>MongoDB</mark> и <mark>OAuth v2.0</mark> при этом используя <mark>VK API</mark>.
+      - layout: top-middle
+        title: Backend-test-go
+        # quote: >
+        #  Add anything you want
+        link: github.com/ineverbee/backend-test-go
+        # link_text: Project Website
+        additional_links:
+          - title:  ineverbee/go-web
+            icon: fab fa-github
+            url: github.com/ineverbee/backend-test-go
+        description: | # this will include new lines to allow paragraphs
+          Проект как тестовое задание для вакансии стажёра backend разработки в Авито, а также как практика разработки на <mark>Go</mark>. Во время написания этого проекта я также изучил <mark>Redis</mark>.
+
 
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
     content:
-      <p><font size="5"><mark>Golang</mark></font>&#9;<font size="5"><mark>Python</mark></font>&#9;<font size="5"><mark>Gorilla Toolkit</mark></font>&#9;<font size="5"><mark>Django</mark></font>&#9;<font size="5"><mark>Git</mark></font>&#9;<font size="5"><mark>HTML</mark></font>&#9;<font size="5"><mark>CSS</mark></font>&#9;<font size="5"><mark>JS</mark></font>&#9;<font size="5"><mark>jQuery</mark></font>&#9;<font size="5"><mark>RabbitMQ</mark></font>&#9;<font size="5"><mark>Celery</mark></font>&#9;<font size="5"><mark>Docker</mark></font>&#9;<font size="5"><mark>Heroku</mark></font></p>
+      <p><font size="5"><mark>Golang</mark></font>&#9;<font size="5"><mark>Python</mark></font>&#9;<font size="5"><mark>Gorilla Toolkit</mark></font>&#9;<font size="5"><mark>Django</mark></font>&#9;<font size="5"><mark>Git</mark></font>&#9;<font size="5"><mark>HTML</mark></font>&#9;<font size="5"><mark>CSS</mark></font>&#9;<font size="5"><mark>JS</mark></font>&#9;<font size="5"><mark>jQuery</mark></font>&#9;<font size="5"><mark>RabbitMQ</mark></font>&#9;<font size="5"><mark>Celery</mark></font>&#9;<font size="5"><mark>Docker</mark></font>&#9;<font size="5"><mark>Heroku</mark></font>&#9;<font size="5"><mark>Redis</mark></font></p>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
