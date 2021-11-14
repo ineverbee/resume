@@ -25,9 +25,9 @@ additional_links:
 - title: Telegram Link
   icon: fas fa-paper-plane
   url: https://www.t.me/ineverbee
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+- title: HackerRank Link
+  icon: fab fa-hackerrank
+  url: https://www.hackerrank.com/pimonowlad
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -39,7 +39,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/zenitsu.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Привет, меня зовут Влад, мне 23 и я начинающий backend разработчик. У меня нет опыта работы в реальном производстве. Но я писал свои проекты на <mark>Golang</mark> и <mark>Python</mark>, и удачно заливал их на <mark>Heroku</mark>.
+  Привет, меня зовут Влад, мне 23 и я начинающий backend разработчик. У меня нет опыта работы в реальном производстве. Но я писал свои проекты на <mark>Golang</mark> и <mark>Python</mark>, и удачно заливал их на <mark>Heroku</mark>. Также я практиковал свои теоретические знания языков программирования, в том числе <mark>SQL</mark>, на <mark>HackerRank</mark>; ссылка на профиль есть выше.
 
   Мои наиболее прокаченные скиллы: <mark>Django</mark> и <mark>Watching anime</mark>
 
