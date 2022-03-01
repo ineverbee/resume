@@ -83,6 +83,30 @@ content:
             url: github.com/ineverbee/fibonacci
         description: | # this will include new lines to allow paragraphs
           Проект как тестовое задание для вакансии junior backend разработчика Golang в FBS. Микросервис для создания среза чисел Фибоначчи с двумя протоколами <mark>HTTP REST</mark> и <mark>gRPC</mark>.
+      - layout: top-middle
+        title: bitlybutnot
+        # quote: >
+        #  Add anything you want
+        link: github.com/ineverbee/bitlybutnot
+        # link_text: Project Website
+        additional_links:
+          - title:  ineverbee/bitlybutnot
+            icon: fab fa-github
+            url: github.com/ineverbee/bitlybutnot
+        description: | # this will include new lines to allow paragraphs
+          Тестовое задание для вакансии стажёра backend разработчика Golang в Ozon. <mark>HTTP REST</mark> сервис для укорачивания длинных ссылок.
+      - layout: top-middle
+        title: adverts-go-api
+        # quote: >
+        #  Add anything you want
+        link: github.com/ineverbee/adverts-go-api
+        # link_text: Project Website
+        additional_links:
+          - title:  ineverbee/adverts-go-api
+            icon: fab fa-github
+            url: github.com/ineverbee/adverts-go-api
+        description: | # this will include new lines to allow paragraphs
+          Сервис для хранения и подачи объявлений, хранящихся в базе данных <mark>postgres</mark>. Сервис предоставляет API, работающее поверх <mark>HTTP</mark> в формате <mark>JSON</mark>.
 
 
   - title: Skills # Title for the section
