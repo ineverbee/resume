@@ -106,6 +106,18 @@ content:
             url: github.com/ineverbee/adverts-go-api
         description: | # this will include new lines to allow paragraphs
           Service for storing and submitting ads stored in the <mark>Postgres</mark> database. The service provides an API that runs on top of <mark>HTTP</mark> in <mark>JSON</mark>.
+      - layout: top-middle
+        title: catalogue
+        # quote: >
+        #  Add anything you want
+        link: github.com/ineverbee/catalogue
+        # link_text: Project Website
+        additional_links:
+          - title:  ineverbee/catalogue
+            icon: fab fa-github
+            url: github.com/ineverbee/catalogue
+        description: | # this will include new lines to allow paragraphs
+          Service for working with <mark>Postgres</mark> cats database through <mark>Go</mark> for fun. The service provides an API to get list of cats, to add some cats and something more.
 
 
   - title: Skills # Title for the section
