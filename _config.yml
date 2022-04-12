@@ -8,7 +8,7 @@ version: 2
 name: Vlad Pimonov
 title: Backend developer
 email: pimonowlad@gmail.com
-website: ineverbee.herokuapp.com
+website: ineverbee.github.io/resume
 
 # Dark Mode (true/false/never)
 darkmode: true
