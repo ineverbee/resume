@@ -118,7 +118,7 @@ content:
             icon: fab fa-github
             url: github.com/ineverbee/catalogue
         description: | # this will include new lines to allow paragraphs
-          Сервис для работы с базой данных котов <mark>Postgres</mark> через <mark>Go</mark> for fun. Сервис предоставляет API для получения списка котов, для добавления новых котов и что-то ещё.
+          Сервис для работы с базой данных котов <mark>Postgres</mark> через <mark>Go</mark>. Сервис предоставляет API для получения списка котов, для добавления новых котов и что-то ещё.
 
 
   - title: Skills # Title for the section
