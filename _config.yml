@@ -1,3 +1,4 @@
+# Site
 repository: ineverbee/resume
 favicon: images/favicon.ico
 
@@ -5,10 +6,10 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Vlad Pimonov
+name: Влад Пимонов
 title: Backend developer
 email: pimonowlad@gmail.com
-website: ineverbee.github.io/resume
+website: ineverbee.herokuapp.com
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -38,9 +39,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/zenitsu.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Vlad, I am 23 and I am a beginner backend developer. I do not have an experience in the real production. But I code my own projects using <mark>Golang</mark> and <mark>Python</mark>, I have successfully deployed them on <mark>Heroku</mark>. Also I practiced my theoretical knowledge of programming languages, including <mark>SQL</mark>, on <mark>HackerRank</mark>; link to my profile above.
+  Привет, меня зовут Влад, мне 23 и я начинающий backend разработчик. У меня нет опыта работы в реальном производстве. Но я писал свои проекты на <mark>Golang</mark> и <mark>Python</mark>, и удачно заливал их на <mark>Heroku</mark>. Также я практиковал свои теоретические знания языков программирования, в том числе <mark>SQL</mark>, на <mark>HackerRank</mark>; ссылка на профиль есть выше.
 
-  My most advanced skills: <mark>Golang</mark> and <mark>Watching anime</mark>
+  Мои наиболее прокаченные скиллы: <mark>Golang</mark> и <mark>Watching anime</mark>
 
 content:
   - title: Projects # Title for the section
@@ -57,7 +58,7 @@ content:
             icon: fab fa-github
             url: github.com/ineverbee/go-web
         description: | # this will include new lines to allow paragraphs
-          I strated this project in order to learn <mark>Go</mark>, its standard library and to practice development using this language. While writing this project, I also learned <mark>NoSQL</mark>, <mark>MongoDB</mark> and <mark>OAuth v2.0</mark> using <mark>VK API</mark>.
+          Я начал этот проект для изучения языка <mark>Go</mark>, его стандартных библиотек и для практики разработки на данном языке. Во время написания этого проекта я также изучил <mark>NoSQL</mark> на примере <mark>MongoDB</mark> и <mark>OAuth v2.0</mark> при этом используя <mark>VK API</mark>.
       - layout: top-middle
         title: Backend-test-go
         # quote: >
@@ -69,7 +70,7 @@ content:
             icon: fab fa-github
             url: github.com/ineverbee/backend-test-go
         description: | # this will include new lines to allow paragraphs
-          The project as a test task for the vacancy of a backend development intern in Avito, and also <mark>Go</mark> practice. While writing this project, I also learned <mark>Redis</mark>.
+          Проект как тестовое задание для вакансии стажёра backend разработки в Авито, а также как практика разработки на <mark>Go</mark>. Во время написания этого проекта я также изучил <mark>Redis</mark>.
       - layout: top-middle
         title: fibonacci
         # quote: >
@@ -81,7 +82,7 @@ content:
             icon: fab fa-github
             url: github.com/ineverbee/fibonacci
         description: | # this will include new lines to allow paragraphs
-          The project as a test task for the vacancy of junior Golang backend developer in FBS. Microservice for creating a slice of Fibonacci numbers with two protocols <mark>HTTP REST</mark> and <mark>gRPC</mark>.
+          Проект как тестовое задание для вакансии junior backend разработчика Golang в FBS. Микросервис для создания среза чисел Фибоначчи с двумя протоколами <mark>HTTP REST</mark> и <mark>gRPC</mark>.
       - layout: top-middle
         title: bitlybutnot
         # quote: >
@@ -93,7 +94,7 @@ content:
             icon: fab fa-github
             url: github.com/ineverbee/bitlybutnot
         description: | # this will include new lines to allow paragraphs
-          Test task for the vacancy of a Golang backend development intern in Ozon. <mark>HTTP REST</mark> service for shortening long links.
+          Тестовое задание для вакансии стажёра backend разработчика Golang в Ozon. <mark>HTTP REST</mark> сервис для укорачивания длинных ссылок.
       - layout: top-middle
         title: adverts-go-api
         # quote: >
@@ -105,19 +106,8 @@ content:
             icon: fab fa-github
             url: github.com/ineverbee/adverts-go-api
         description: | # this will include new lines to allow paragraphs
-          Service for storing and submitting ads stored in the <mark>Postgres</mark> database. The service provides an API that runs on top of <mark>HTTP</mark> in <mark>JSON</mark>.
-      - layout: top-middle
-        title: catalogue
-        # quote: >
-        #  Add anything you want
-        link: github.com/ineverbee/catalogue
-        # link_text: Project Website
-        additional_links:
-          - title:  ineverbee/catalogue
-            icon: fab fa-github
-            url: github.com/ineverbee/catalogue
-        description: | # this will include new lines to allow paragraphs
-          Service for working with <mark>Postgres</mark> cats database through <mark>Go</mark> for fun. The service provides an API to get list of cats, to add some cats and something more.
+          Сервис для хранения и подачи объявлений, хранящихся в базе данных <mark>postgres</mark>. Сервис предоставляет API, работающее поверх <mark>HTTP</mark> в формате <mark>JSON</mark>.
+
 
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
@@ -128,15 +118,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: NUST MISiS
+        title: НИТУ МИСиС
         caption: 2016 - 2020
-        sub_title: Electronics and nanoelectronics
+        sub_title: Электроника и наноэлектроника
         quote: >
-          National Research Technological University "MISiS" - Russian technical university; the first university in the country to receive the status of "National Research Technological University".
+          Национальный исследовательский технологический университет «МИСиС» — российский технический университет; первый вуз в стране, получивший статус «Национального исследовательского технологического университета».
         description: | # this will include new lines to allow paragraphs
-          During my time at university, I learned most of the key skills such as teamwork and working to tight deadlines. I really enjoyed my studies at the university and learned a lot about a healthy work-life balance.
+          Во время учебы в университете я усвоил большинство ключевых навыков, таких как командная работа и работа в сжатые сроки. Я получил огромное удовольствие от учебы в университете и много узнал о здоровом балансе между работой и личной жизнью.
       - layout: left
-        title: NUST MISiS
+        title: НИТУ МИСиС
         caption: 2020
         sub_title: IELTS
         description: | # this will include new lines to allow paragraphs
@@ -145,7 +135,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Along with my interest in backend development, some of my other interests and hobbies are:
+      Наряду с моим интересом к backend разработке, некоторые из моих других интересов и хобби:
       - Anime
       - Gaming
       - Video and image editing
