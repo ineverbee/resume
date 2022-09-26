@@ -132,6 +132,19 @@ content:
         description: | # this will include new lines to allow paragraphs
           Upper intermediate - B2
 
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Стажер GO разработчик
+        caption: July 2022 - September 2022
+        sub_title: Wildberries
+        quote: >
+          Международный маркетплейс одежды, обуви, электроники, детских товаров, товаров для дома и других товаров.
+        description: | # this will include new lines to allow paragraphs
+          В качестве теоретической части разрабатывал Linux утилиты, а также задачи на го на алгоритмы и шаблоны проектирования. На практической части создавал приложения для работы с Postgres базой данных и Nats Streaming.
+      
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
