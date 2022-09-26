@@ -39,7 +39,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/zenitsu.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Привет, меня зовут Влад, мне 23 и я начинающий backend разработчик. У меня нет опыта работы в реальном производстве. Но я писал свои проекты на <mark>Golang</mark> и <mark>Python</mark>, и удачно заливал их на <mark>Heroku</mark>. Также я практиковал свои теоретические знания языков программирования, в том числе <mark>SQL</mark>, на <mark>HackerRank</mark>; ссылка на профиль есть выше.
+  Привет, меня зовут Влад, я начинающий backend разработчик. Я разрабатывал свои проекты на <mark>Golang</mark> и <mark>Python</mark>, и удачно заливал их на <mark>Heroku</mark>. Я проходил стажировку в компании <mark>Wildberries</mark> на позиции <mark>Golang</mark> разработчика. Также я практиковал свои теоретические знания языков программирования, в том числе <mark>SQL</mark>, на <mark>HackerRank</mark>; ссылка на профиль есть выше.
 
   Мои наиболее прокаченные скиллы: <mark>Golang</mark> и <mark>Watching anime</mark>
 
@@ -154,7 +154,7 @@ content:
         quote: >
           Международный маркетплейс одежды, обуви, электроники, детских товаров, товаров для дома и других товаров.
         description: | # this will include new lines to allow paragraphs
-          В качестве теоретической части разрабатывал Linux утилиты, а также задачи на го на алгоритмы и шаблоны проектирования. На практической части создавал приложения для работы с Postgres базой данных и Nats Streaming.
+          В качестве теоретической части разрабатывал <mark>Linux</mark> утилиты, а также задачи на го на алгоритмы и шаблоны проектирования. На практической части создавал приложения для работы с <mark>Postgres</mark> базой данных и <mark>Nats Streaming</mark>.
       
 
   - title: A Little More About Me
