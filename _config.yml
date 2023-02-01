@@ -39,7 +39,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/zenitsu.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Привет, меня зовут Влад, я начинающий backend разработчик. Я разрабатывал свои проекты на <mark>Golang</mark> и <mark>Python</mark>, и удачно заливал их на <mark>Heroku</mark>. Я проходил стажировку в компании <mark>Wildberries</mark> на позиции <mark>Golang</mark> разработчика. Также я практиковал свои теоретические знания языков программирования, в том числе <mark>SQL</mark>, на <mark>HackerRank</mark>; ссылка на профиль есть выше.
+  Привет, меня зовут Влад, я начинающий backend разработчик. Я разрабатывал свои проекты на <mark>Golang</mark> и <mark>Python</mark>, и удачно заливал их на <mark>Heroku</mark>. Также я практиковал свои теоретические знания языков программирования, в том числе <mark>SQL</mark>, на <mark>HackerRank</mark>; ссылка на профиль есть выше.
 
   Мои наиболее прокаченные скиллы: <mark>Golang</mark> и <mark>Watching anime</mark>
 
@@ -47,30 +47,30 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Wall
-        # quote: >
-        #  Add anything you want
-        link: github.com/ineverbee/go-web
-        # link_text: Project Website
-        additional_links:
-          - title:  ineverbee/go-web
-            icon: fab fa-github
-            url: github.com/ineverbee/go-web
-        description: | # this will include new lines to allow paragraphs
-          Я начал этот проект для изучения языка <mark>Go</mark>, его стандартных библиотек и для практики разработки на данном языке. Во время написания этого проекта я также изучил <mark>NoSQL</mark> на примере <mark>MongoDB</mark> и <mark>OAuth v2.0</mark> при этом используя <mark>VK API</mark>.
-      - layout: top-middle
-        title: Backend-test-go
-        # quote: >
-        #  Add anything you want
-        link: github.com/ineverbee/backend-test-go
-        # link_text: Project Website
-        additional_links:
-          - title:  ineverbee/backend-test-go
-            icon: fab fa-github
-            url: github.com/ineverbee/backend-test-go
-        description: | # this will include new lines to allow paragraphs
-          Проект как тестовое задание для вакансии стажёра backend разработки в Авито, а также как практика разработки на <mark>Go</mark>. Во время написания этого проекта я также изучил <mark>Redis</mark>.
+#       - layout: top-middle
+#         title: Wall
+#         # quote: >
+#         #  Add anything you want
+#         link: github.com/ineverbee/go-web
+#         # link_text: Project Website
+#         additional_links:
+#           - title:  ineverbee/go-web
+#             icon: fab fa-github
+#             url: github.com/ineverbee/go-web
+#         description: | # this will include new lines to allow paragraphs
+#           Я начал этот проект для изучения языка <mark>Go</mark>, его стандартных библиотек и для практики разработки на данном языке. Во время написания этого проекта я также изучил <mark>NoSQL</mark> на примере <mark>MongoDB</mark> и <mark>OAuth v2.0</mark> при этом используя <mark>VK API</mark>.
+#       - layout: top-middle
+#         title: Backend-test-go
+#         # quote: >
+#         #  Add anything you want
+#         link: github.com/ineverbee/backend-test-go
+#         # link_text: Project Website
+#         additional_links:
+#           - title:  ineverbee/backend-test-go
+#             icon: fab fa-github
+#             url: github.com/ineverbee/backend-test-go
+#         description: | # this will include new lines to allow paragraphs
+#           Проект как тестовое задание для вакансии стажёра backend разработки в Авито, а также как практика разработки на <mark>Go</mark>. Во время написания этого проекта я также изучил <mark>Redis</mark>.
       - layout: top-middle
         title: fibonacci
         # quote: >
