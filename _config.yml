@@ -124,7 +124,7 @@ content:
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
     content:
-      <p><font size="5"><mark>Golang</mark></font>&#9;<font size="5"><mark>Python</mark></font>&#9;<font size="5"><mark>FastAPI</mark></font>&#9;<font size="5"><mark>Django</mark></font>&#9;<font size="5"><mark>Git</mark></font>&#9;<font size="5"><mark>HTML</mark></font>&#9;<font size="5"><mark>CSS</mark></font>&#9;<font size="5"><mark>JS</mark></font>&#9;<font size="5"><mark>jQuery</mark></font>&#9;<font size="5"><mark>Docker</mark></font>&#9;<font size="5"><mark>Redis</mark></font>&#9;<font size="5"><mark>Linux</mark></font>&#9;<font size="5"><mark>SQL</mark></font>&#9;<font size="5"><mark>PostgreSQL</mark></font>&#9;<font size="5"><mark>NoSQL</mark></font>&#9;<font size="5"><mark>MongoDB</mark></font></p>
+      <p><font size="5"><mark>Golang</mark></font>&#9;<font size="5"><mark>Python</mark></font>&#9;<font size="5"><mark>FastAPI</mark></font>&#9;<font size="5"><mark>Django</mark></font>&#9;<font size="5"><mark>Git</mark></font>&#9;<font size="5"><mark>HTML</mark></font>&#9;<font size="5"><mark>CSS</mark></font>&#9;<font size="5"><mark>Docker</mark></font>&#9;<font size="5"><mark>Redis</mark></font>&#9;<font size="5"><mark>Linux</mark></font>&#9;<font size="5"><mark>SQL</mark></font>&#9;<font size="5"><mark>PostgreSQL</mark></font>&#9;<font size="5"><mark>NoSQL</mark></font>&#9;<font size="5"><mark>MongoDB</mark></font></p>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
