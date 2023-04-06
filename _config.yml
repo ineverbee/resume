@@ -26,7 +26,7 @@ additional_links:
   icon: fas fa-paper-plane
   url: https://www.t.me/ineverbee
 - title: LeetCode Link
-  icon: fas fa-brackets-curly
+  icon: fas fa-code
   url: https://leetcode.com/ineverbee/
 
 # Google Analytics and Tag Manager
