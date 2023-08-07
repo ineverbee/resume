@@ -95,36 +95,12 @@ content:
             url: github.com/ineverbee/bitlybutnot
         description: | # this will include new lines to allow paragraphs
           Тестовое задание для вакансии стажёра backend разработчика Golang в Ozon. <mark>HTTP REST</mark> сервис для укорачивания длинных ссылок.
-      - layout: top-middle
-        title: adverts-go-api
-        # quote: >
-        #  Add anything you want
-        link: github.com/ineverbee/adverts-go-api
-        # link_text: Project Website
-        additional_links:
-          - title:  ineverbee/adverts-go-api
-            icon: fab fa-github
-            url: github.com/ineverbee/adverts-go-api
-        description: | # this will include new lines to allow paragraphs
-          Сервис для хранения и подачи объявлений, хранящихся в базе данных <mark>Postgres</mark>. Сервис предоставляет API, работающее поверх <mark>HTTP</mark> в формате <mark>JSON</mark>.
-      - layout: top-middle
-        title: catalogue
-        # quote: >
-        #  Add anything you want
-        link: github.com/ineverbee/catalogue
-        # link_text: Project Website
-        additional_links:
-          - title:  ineverbee/catalogue
-            icon: fab fa-github
-            url: github.com/ineverbee/catalogue
-        description: | # this will include new lines to allow paragraphs
-          Сервис для работы с базой данных котов <mark>Postgres</mark> через <mark>Go</mark>. Сервис предоставляет API для получения списка котов, для добавления новых котов и что-то ещё.
 
 
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
     content:
-      <p><font size="5"><mark>Golang</mark></font>&#9;<font size="5"><mark>Python</mark></font>&#9;<font size="5"><mark>FastAPI</mark></font>&#9;<font size="5"><mark>Django</mark></font>&#9;<font size="5"><mark>Git</mark></font>&#9;<font size="5"><mark>HTML</mark></font>&#9;<font size="5"><mark>CSS</mark></font>&#9;<font size="5"><mark>Docker</mark></font>&#9;<font size="5"><mark>Redis</mark></font>&#9;<font size="5"><mark>Linux</mark></font>&#9;<font size="5"><mark>SQL</mark></font>&#9;<font size="5"><mark>PostgreSQL</mark></font>&#9;<font size="5"><mark>NoSQL</mark></font>&#9;<font size="5"><mark>MongoDB</mark></font></p>
+      <p><font size="5"><mark>Golang</mark></font>&#9;<font size="5"><mark>Python</mark></font>&#9;<font size="5"><mark>Postgres</mark></font>&#9;<font size="5"><mark>Django</mark></font>&#9;<font size="5"><mark>Git</mark></font>&#9;<font size="5"><mark>Docker</mark></font>&#9;<font size="5"><mark>Redis</mark></font>&#9;<font size="5"><mark>Linux</mark></font>&#9;<font size="5"><mark>SQL</mark></font>&#9;<font size="5"><mark>API</mark></font>&#9;<font size="5"><mark>REST</mark></font>&#9;<font size="5"><mark>gRPC</mark></font></p>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
