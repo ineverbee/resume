@@ -82,7 +82,7 @@ content:
             icon: fab fa-github
             url: github.com/ineverbee/fibonacci
         description: | # this will include new lines to allow paragraphs
-          Проект как тестовое задание для вакансии junior backend разработчика Golang в FBS. Микросервис для создания среза чисел Фибоначчи с двумя протоколами <mark>HTTP REST</mark> и <mark>gRPC</mark>.
+          Тестовое задание для вакансии junior backend разработчика Golang в FBS. Микросервис для создания среза чисел Фибоначчи с двумя протоколами <mark>HTTP REST</mark> и <mark>gRPC</mark>.
       - layout: top-middle
         title: bitlybutnot
         # quote: >
