@@ -49,7 +49,7 @@ content:
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
     content:
-      <p><font size="8"><mark>Golang</mark></font>&#9;<font size="5"><mark>Python</mark></font>&#9;<font size="7"><mark>Bash</mark></font>&#9;<font size="3"><mark>Git</mark></font>&#9;<font size="6"><mark>Docker</mark></font>&#9;<font size="4"><mark>Redis</mark></font>&#9;<font size="7"><mark>Linux</mark></font>&#9;<font size="4"><mark>SQL</mark></font>&#9;<font size="6"><mark>API</mark></font>&#9;<font size="5"><mark>HTTP/S</mark></font>&#9;<font size="5"><mark>TCP/IP</mark></font></p>
+      <p><font size="8"><mark>Golang</mark></font>&#9;<font size="6"><mark>Python</mark></font>&#9;<font size="5"><mark>Bash</mark></font>&#9;<font size="3"><mark>Git</mark></font>&#9;<font size="4"><mark>MongoDB</mark></font>&#9;<font size="6"><mark>Docker</mark></font>&#9;<font size="5"><mark>Redis</mark></font>&#9;<font size="7"><mark>Linux</mark></font>&#9;<font size="4"><mark>SQL</mark></font>&#9;<font size="6"><mark>API</mark></font>&#9;<font size="5"><mark>HTTP</mark></font>&#9;<font size="5"><mark>TCP/IP</mark></font>&#9;<font size="3"><mark>TLS</mark></font></p>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
