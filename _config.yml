@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Влад Пимонов
-title: Backend developer
+title: Software developer
 email: pimonowlad@gmail.com
 website: ineverbee.github.io/resume
 
@@ -37,70 +37,19 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/zenitsu.jpg
+about_profile_image: images/loading_cat.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Привет, меня зовут Влад, я начинающий backend разработчик. Я разрабатывал свои pet-проекты на <mark>Golang</mark> и <mark>Python</mark>. Также я практиковал свои теоретические знания языков программирования, в том числе <mark>SQL</mark>, на <mark>LeetCode</mark>; ссылка на профиль есть выше.
+  Привет, меня зовут Влад, и я опытный разработчик программного обеспечения на языке <mark>Golang</mark> с глубокими знаниями в области сетевых технологий. В своей работе я специализируюсь на разработке решений, связанных с прокси-серверами, <mark>VPN</mark>, <mark>DNS</mark>, а также протоколами <mark>TCP/IP</mark>, <mark>UDP</mark>, <mark>HTTP</mark> и <mark>HTTPS</mark>.
 
-  Мои наиболее прокаченные скиллы: <mark>Golang</mark> и <mark>Watching anime</mark>
+  Помимо Golang, я также владею языком <mark>Python</mark>, что позволяет мне расширять функциональность разрабатываемых приложений и эффективно решать разнообразные задачи. Я активно использую инструменты, такие как <mark>Git</mark> и <mark>Docker</mark>, для управления версиями и контейнеризации, а также работал с <mark>Redis</mark> и <mark>MongoDB</mark> для хранения и обработки данных.
+
+  Мои наиболее прокаченные скиллы: <mark>Golang</mark> и <mark>Linux terminal</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-#       - layout: top-middle
-#         title: Wall
-#         # quote: >
-#         #  Add anything you want
-#         link: github.com/ineverbee/go-web
-#         # link_text: Project Website
-#         additional_links:
-#           - title:  ineverbee/go-web
-#             icon: fab fa-github
-#             url: github.com/ineverbee/go-web
-#         description: | # this will include new lines to allow paragraphs
-#           Я начал этот проект для изучения языка <mark>Go</mark>, его стандартных библиотек и для практики разработки на данном языке. Во время написания этого проекта я также изучил <mark>NoSQL</mark> на примере <mark>MongoDB</mark> и <mark>OAuth v2.0</mark> при этом используя <mark>VK API</mark>.
-#       - layout: top-middle
-#         title: Backend-test-go
-#         # quote: >
-#         #  Add anything you want
-#         link: github.com/ineverbee/backend-test-go
-#         # link_text: Project Website
-#         additional_links:
-#           - title:  ineverbee/backend-test-go
-#             icon: fab fa-github
-#             url: github.com/ineverbee/backend-test-go
-#         description: | # this will include new lines to allow paragraphs
-#           Проект как тестовое задание для вакансии стажёра backend разработки в Авито, а также как практика разработки на <mark>Go</mark>. Во время написания этого проекта я также изучил <mark>Redis</mark>.
-      - layout: top-middle
-        title: fibonacci
-        # quote: >
-        #  Add anything you want
-        link: github.com/ineverbee/fibonacci
-        # link_text: Project Website
-        additional_links:
-          - title:  ineverbee/fibonacci
-            icon: fab fa-github
-            url: github.com/ineverbee/fibonacci
-        description: | # this will include new lines to allow paragraphs
-          Тестовое задание для вакансии junior backend разработчика Golang в FBS. Микросервис для создания среза чисел Фибоначчи с двумя протоколами <mark>HTTP REST</mark> и <mark>gRPC</mark>.
-      - layout: top-middle
-        title: bitlybutnot
-        # quote: >
-        #  Add anything you want
-        link: github.com/ineverbee/bitlybutnot
-        # link_text: Project Website
-        additional_links:
-          - title:  ineverbee/bitlybutnot
-            icon: fab fa-github
-            url: github.com/ineverbee/bitlybutnot
-        description: | # this will include new lines to allow paragraphs
-          Тестовое задание для вакансии стажёра backend разработчика Golang в Ozon. <mark>HTTP REST</mark> сервис для укорачивания длинных ссылок.
-
-
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
     content:
-      <p><font size="5"><mark>Golang</mark></font>&#9;<font size="5"><mark>Python</mark></font>&#9;<font size="5"><mark>Postgres</mark></font>&#9;<font size="5"><mark>Django</mark></font>&#9;<font size="5"><mark>Git</mark></font>&#9;<font size="5"><mark>Docker</mark></font>&#9;<font size="5"><mark>Redis</mark></font>&#9;<font size="5"><mark>Linux</mark></font>&#9;<font size="5"><mark>SQL</mark></font>&#9;<font size="5"><mark>API</mark></font>&#9;<font size="5"><mark>REST</mark></font>&#9;<font size="5"><mark>gRPC</mark></font></p>
+      <p><font size="8"><mark>Golang</mark></font>&#9;<font size="5"><mark>Python</mark></font>&#9;<font size="7"><mark>Bash</mark></font>&#9;<font size="3"><mark>Git</mark></font>&#9;<font size="6"><mark>Docker</mark></font>&#9;<font size="4"><mark>Redis</mark></font>&#9;<font size="7"><mark>Linux</mark></font>&#9;<font size="4"><mark>SQL</mark></font>&#9;<font size="6"><mark>API</mark></font>&#9;<font size="5"><mark>HTTP/S</mark></font>&#9;<font size="5"><mark>TCP/IP</mark></font></p>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -118,25 +67,12 @@ content:
         caption: 2020
         sub_title: IELTS
         description: | # this will include new lines to allow paragraphs
-          Upper intermediate - B2
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Стажер GO разработчик
-        caption: July 2022 - September 2022
-        sub_title: Wildberries
-        quote: >
-          Международный маркетплейс одежды, обуви, электроники, детских товаров, товаров для дома и других товаров.
-        description: | # this will include new lines to allow paragraphs
-          В качестве теоретической части разрабатывал <mark>Linux</mark> утилиты, а также задачи на го на алгоритмы и шаблоны проектирования. На практической части создавал приложения для работы с <mark>Postgres</mark> базой данных и <mark>Nats Streaming</mark>.
-      
+          Upper intermediate - B2     
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Наряду с моим интересом к backend разработке, некоторые из моих других интересов и хобби:
+      Наряду с моим интересом к разработке, некоторые из моих других интересов и хобби:
       - Anime
       - Gaming
       - Video and image editing
